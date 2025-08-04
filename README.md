@@ -43,6 +43,12 @@ Additional slicers were used to filter reviews by year and to isolate apps with 
 
 ---
 
+## 🖼️ Project Screenshots
+Due to GitHub's file size limits, the full `.pbix` file could not be uploaded. Instead, I've included high-resolution screenshots of the Power BI report visuals to showcase the analysis and dashboard design.  
+You can find them in the project repository files for a visual walkthrough of each section.
+
+---
+
 ## 🌟 Key Learnings
 - Practiced Power BI techniques including KPIs, scatterplots, DAX columns, and slicers
 - Improved interpretation of app performance and user feedback data
@@ -62,4 +68,4 @@ Business Intelligence Analyst
 
 ---
 
-Thanks for checking out this project! Feel free to explore the report file or reach out to chat BI or app store trends!
+Thanks for checking out this project! Feel free to explore the visuals or reach out to chat BI or app store trends!
